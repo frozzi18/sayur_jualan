@@ -36,7 +36,7 @@ $RECYCLE.BIN/
 # Packages
 ############################
 
-*.7z
+*.7z 
 *.csv
 *.dat
 *.dmg
